@@ -12,7 +12,7 @@ The ranking of coins is based on Market Capitalization.
 ```
 - html
 - css
-- javascipt
+- javascript
 - reactjs
 ```
 
@@ -34,4 +34,4 @@ In the project directory, you can run:
 Runs the app in the development mode.
 
 
-Enjoy!!!
+## Enjoy!!!
