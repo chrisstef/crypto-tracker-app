@@ -1,6 +1,6 @@
 ## crypto-tracker-app
 
-This app was build using ReactJS. We can find the latest cryptocurrency prices and more related to Bitcoin, Ethereum and more..
+This app was build using ReactJS. We fetch the latest cryptocurrency prices and more related to Bitcoin, Ethereum and other alt coins..
 Refresh site to stay updated!
 
 The ranking of coins is based on Market Capitalization.
